@@ -11,10 +11,10 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 <br>
 
 ## Tools and Languages
-<img src="https://img.icons8.com/color/48/4a90e2/python--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/javascript--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/nodejs.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/mongodb.png"/>   <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
+<img src="https://img.icons8.com/color/40/4a90e2/python--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/html-5--v1.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/css3.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/javascript--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/nodejs.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/mongodb.png"/>   <img src="https://img.icons8.com/fluent/40/4a90e2/github.png"/>
 
 ## Softwares
-<img src="https://img.icons8.com/color/48/4a90e2/blender-3d.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/adobe-photoshop--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/adobe-after-effects--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/adobe-xd--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/figma--v2.png"/>
+<img src="https://img.icons8.com/color/40/4a90e2/blender-3d.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/adobe-photoshop--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/adobe-after-effects--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/adobe-xd--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/figma--v2.png"/>
 
 <br>
 <br>
