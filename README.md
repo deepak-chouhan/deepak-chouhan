@@ -9,7 +9,7 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 - Instagram - https://www.instagram.com/dcdeepakdc/
 
 ## Tools and Languages
-<img src="https://img.icons8.com/color/48/4a90e2/python--v2.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/javascript--v2.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/nodejs.png"/>  <img src="https://img.icons8.com/color/48/4a90e2/mongodb.png"/>  <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
+<img src="https://img.icons8.com/color/48/4a90e2/python--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/javascript--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/nodejs.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/mongodb.png"/>   <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/blender-3d.png"/>
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-chouhan&show_icons=true&theme=radical)
 
