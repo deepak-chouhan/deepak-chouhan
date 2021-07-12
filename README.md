@@ -8,6 +8,8 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 - Linkedin - https://www.linkedin.com/in/deepak-chouhan-a396591b3/
 - Instagram - https://www.instagram.com/dcdeepakdc/
 
+<br>
+
 ## Tools and Languages
 <img src="https://img.icons8.com/color/48/4a90e2/python--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/html-5--v1.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/css3.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/javascript--v2.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/nodejs.png"/>   <img src="https://img.icons8.com/color/48/4a90e2/mongodb.png"/>   <img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/>
 
