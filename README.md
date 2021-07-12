@@ -9,7 +9,7 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 - Instagram - https://www.instagram.com/dcdeepakdc/
 
 ## Tools and Languages
-
+<img src="https://img.icons8.com/color/96/4a90e2/python--v2.png"/>
 
 ![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-chouhan&show_icons=true&theme=radical)
 
