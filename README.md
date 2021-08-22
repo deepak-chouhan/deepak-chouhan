@@ -46,7 +46,7 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 <br>
 <br>
 
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-chouhan&show_icons=true&theme=radical)
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepak-chouhan&show_icons=true&theme=dark)
 
 <br>
 
