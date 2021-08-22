@@ -32,7 +32,13 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 </p>
 
 ## Softwares
-<img src="https://img.icons8.com/color/40/4a90e2/blender-3d.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/adobe-photoshop--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/adobe-after-effects--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/adobe-xd--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/figma--v2.png"/>
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+</p>
 
 <br>
 <br>
