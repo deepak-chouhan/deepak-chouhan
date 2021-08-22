@@ -4,8 +4,6 @@
 
 Passionate student of MIT Art, Design, and Technology University. Designing things and solving problems are two of my greatest passions. I have developed games as well as websites. I've spent over a year working with famous technologies. I've been concentrating my efforts lately on learning and developing my Data Science and Web development skills.
 
-- Portfolio - https://deepakchouhan.herokuapp.com/
-
 <a target="_blank" href="https://deepakchouhan.herokuapp.com/"><img src="https://img.shields.io/badge/Portfolio-112240?style=for-the-badge&logo=profile&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/deepak-chouhan-a396591b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/dcdeepakdc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
