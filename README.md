@@ -14,7 +14,6 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 <br>
 
 ## Tools and Languages
-<img src="https://img.icons8.com/color/40/4a90e2/python--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/html-5--v1.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/css3.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/javascript--v2.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/nodejs.png"/>   <img src="https://img.icons8.com/color/40/4a90e2/mongodb.png"/>   <img src="https://img.icons8.com/fluent/40/4a90e2/github.png"/>
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
