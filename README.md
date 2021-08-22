@@ -8,7 +8,7 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 - Linkedin - https://www.linkedin.com/in/deepak-chouhan-a396591b3/
 - Instagram - https://www.instagram.com/dcdeepakdc/
 
-![LinkedIn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<a target="_blank" href="https://www.instagram.com/dcdeepakdc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br>
 
