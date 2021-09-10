@@ -6,7 +6,7 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 
 ## Experience
 - **Google developer student club - MIT-ADTU** | Technical Team Member - Web development
-  - (sept 2021 - present) 
+  - (Sept 2021 - present) 
   - Worked on front-end development projects
 
 
