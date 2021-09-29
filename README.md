@@ -9,7 +9,6 @@ Passionate student of MIT Art, Design, and Technology University. Designing thin
 <a target="_blank" href="https://deepakchouhan.herokuapp.com/"><img src="https://img.shields.io/badge/Portfolio-112240?style=for-the-badge&logo=profile&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/deepak-chouhan-a396591b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/dcdeepakdc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<!-- <a target="_blank" href="https://codepen.io/deepak-chouhan"><img src="https://img.shields.io/badge/Codepen-1a1b1b?style=for-the-badge&logo=codepen&logoColor=white"/></a> -->
 
 <br>
 
