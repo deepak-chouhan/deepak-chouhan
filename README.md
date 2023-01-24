@@ -6,7 +6,7 @@ A passionate student, Exploring things and solving problems are two of my greate
 
 
 ## Find me
-<a target="_blank" href="http://deepakchouhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-112240?style=for-the-badge&logo=profile&logoColor=white"/></a>
+<a target="__blank" href="http://deepakchouhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-112240?style=for-the-badge&logo=profile&logoColor=white"/></a>
 <a target="_blank" href="https://www.linkedin.com/in/deepak-chouhan-a396591b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/dcdeepakdc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
