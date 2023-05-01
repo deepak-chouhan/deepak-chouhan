@@ -18,7 +18,7 @@
 #
 #### Tools I have worked with
 `Python` `HTML/CSS` `JavaScript` `Node.JS` `Express.JS` `Pandas` `Numpy` `Scikit-Learn` `MongoDB` `Git` `Unity` `Heroku` `Jenkins` `CI/CD`
- `SonarQube` `Github Actions` `Postman` `Docker` `Docker`
+ `SonarQube` `Github Actions` `Postman` `Docker` `Googling`
 
 
 <!-- <p>
