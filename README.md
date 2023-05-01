@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DevSecOps.
 - 📫 How to reach me ... <a target="__blank" href="https://www.linkedin.com/in/dcdeepakdc/">`LinkedIn`</a> <a target="__blank" href="https://deepakchouhan.tech/">`Website`</a> <a target="__blank" href="https://www.instagram.com/dcdeepakdc/">`Instagram`</a>
 
+
 <!-- A passionate student, Exploring things and solving problems are two of my greatest passions. I have developed games as well as websites. I've spent over a year working with famous technologies. I've been concentrating my efforts lately on learning and developing my Data Science skill.
  -->
  
@@ -50,7 +51,6 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
 </p> -->
 
-<br>
 <br>
 <br>
 
