@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Deepak.
 - 👀 I like designing Websites, Games and Machine Learning Projects.
-- 🌱 I’m currently learning DevOps.
+- 🌱 I’m currently learning DevSecOps.
 - 📫 How to reach me ... <a target="__blank" href="https://www.linkedin.com/in/dcdeepakdc/">`LinkedIn`</a> <a target="__blank" href="https://deepakchouhan.tech/">`Website`</a> <a target="__blank" href="https://www.instagram.com/dcdeepakdc/">`Instagram`</a>
 
 <!-- A passionate student, Exploring things and solving problems are two of my greatest passions. I have developed games as well as websites. I've spent over a year working with famous technologies. I've been concentrating my efforts lately on learning and developing my Data Science skill.
