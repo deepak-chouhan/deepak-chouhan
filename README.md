@@ -14,9 +14,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/dcdeepakdc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/dcdeepakdc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  -->
-<br>
-
-#### Tools and Languages
+<!-- <br> -->
+#
+#### Tools I have worked with
 `Python` `HTML/CSS` `JavaScript` `Node.JS` `Express.JS` `Pandas` `Numpy` `Scikit-Learn` `MongoDB` `Git` `Unity` `Heroku` `Jenkins` `CI/CD`
  `SonarQube` `Github Actions` `Postman` `Docker` `Docker`
 
