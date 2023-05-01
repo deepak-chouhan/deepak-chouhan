@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Deepak.
+## 👋 Hi, I’m Deepak.
 - 👀 I like designing Websites, Games and Machine Learning Projects.
 - 🌱 I’m currently learning DevOps.
 - 📫 How to reach me ... <a target="__blank" href="https://www.linkedin.com/in/dcdeepakdc/">`LinkedIn`</a> <a target="__blank" href="https://deepakchouhan.tech/">`Website`</a> <a target="__blank" href="https://www.instagram.com/dcdeepakdc/">`Instagram`</a>
@@ -16,7 +16,7 @@
  -->
 <!-- <br> -->
 #
-#### Tools I have worked with
+## 🛠 Tech I use
 `Python` `HTML/CSS` `JavaScript` `Node.JS` `Express.JS` `Pandas` `Numpy` `Scikit-Learn` `MongoDB` `Git` `Unity` `Heroku` `Jenkins` `CI/CD`
  `SonarQube` `Github Actions` `Postman` `Docker` `Googling`
 
