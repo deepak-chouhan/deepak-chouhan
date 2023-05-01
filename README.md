@@ -1,19 +1,27 @@
-### Hi there 👋
+- 👋 Hi, I’m Deepak.
+- 👀 I like designing Websites, Games and Machine Learning Projects.
+- 🌱 I’m currently learning DevOps.
+- 📫 How to reach me ... <a target="__blank" href="https://www.linkedin.com/in/dcdeepakdc/">`LinkedIn`</a> <a target="__blank" href="https://deepakchouhan.tech/">`Website`</a> <a target="__blank" href="https://www.instagram.com/dcdeepakdc/">`Instagram`</a>
 
-## I'm Deepak
+<!-- A passionate student, Exploring things and solving problems are two of my greatest passions. I have developed games as well as websites. I've spent over a year working with famous technologies. I've been concentrating my efforts lately on learning and developing my Data Science skill.
+ -->
+ 
+<!-- ## Find me
 
-A passionate student, Exploring things and solving problems are two of my greatest passions. I have developed games as well as websites. I've spent over a year working with famous technologies. I've been concentrating my efforts lately on learning and developing my Data Science skill.
+<a target="__blank" href="https://deepakchouhan.tech/">`Website`</a>
 
-
-## Find me
 <a target="__blank" href="https://deepakchouhan.tech/"><img src="https://img.shields.io/badge/Portfolio-112240?style=for-the-badge&logo=profile&logoColor=white"/></a>
-<a target="_blank" href="https://www.linkedin.com/in/deepak-chouhan-a396591b3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/dcdeepakdc/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a target="_blank" href="https://www.instagram.com/dcdeepakdc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-
+ -->
 <br>
 
-## Tools and Languages
-<p>
+#### Tools and Languages
+`Python` `HTML/CSS` `JavaScript` `Node.JS` `Express.JS` `Pandas` `Numpy` `Scikit-Learn` `MongoDB` `Git` `Unity` `Heroku` `Jenkins` `CI/CD`
+ `SonarQube` `Github Actions` `Postman` `Docker` `Docker`
+
+
+<!-- <p>
 <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,7 +38,7 @@ A passionate student, Exploring things and solving problems are two of my greate
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+</p> -->
 
 <!-- ## Softwares
 <p>
