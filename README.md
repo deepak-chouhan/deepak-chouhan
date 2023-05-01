@@ -15,7 +15,7 @@
 <a target="_blank" href="https://www.instagram.com/dcdeepakdc/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
  -->
 <!-- <br> -->
-#
+
 ## 🛠 Tech I use
 `Python` `HTML/CSS` `JavaScript` `Node.JS` `Express.JS` `Pandas` `Numpy` `Scikit-Learn` `MongoDB` `Git` `Unity` `Heroku` `Jenkins` `CI/CD`
  `SonarQube` `Github Actions` `Postman` `Docker` `Googling`
